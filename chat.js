@@ -1,3 +1,4 @@
+
 module.exports = async function handler(req, res) {
   // CORS headers so the browser can call this endpoint
   res.setHeader('Access-Control-Allow-Origin', '*');
